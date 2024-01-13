@@ -201,5 +201,7 @@ Continue with the same pattern for Orders Routes...
 ## Documentation
 - Postman:
 - ![Postman](https://documenter.getpostman.com/view/27727111/2s9YsNdptR)
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 
 - **Swagger Documentation:** [Swagger Documentation](https://your-api-host/api/v1/api-docs/)

@@ -199,11 +199,5 @@ Continue with the same pattern for Orders Routes...
 - **Endpoint:** `GET /api/v1/products/search?q={search_term}`
 
 ## Documentation
-- Postman:
-[[Link Text](https://documenter.getpostman.com/view/27727111/2s9YsNdptR)]()
-
-
-https://documenter.getpostman.com/view/27727111/2s9YsNdptR
-
-[- **Swagger Documentation:** [Swagger Documentation](https://your-api-host/api/v1/api-docs/)
-](url)
+# Postman: https://documenter.getpostman.com/view/27727111/2s9YsNdptR
+# Swagger: Documentation:https://your-api-host/api/v1/api-docs/

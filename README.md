@@ -200,6 +200,6 @@ Continue with the same pattern for Orders Routes...
 
 ## Documentation
 - Postman:
-- ![Postman Documentation](`https://documenter.getpostman.com/view/27727111/2s9YsNdptR`)
+- ![Postman](https://documenter.getpostman.com/view/27727111/2s9YsNdptR)
 
 - **Swagger Documentation:** [Swagger Documentation](https://your-api-host/api/v1/api-docs/)

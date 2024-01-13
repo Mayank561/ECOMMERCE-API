@@ -199,7 +199,7 @@ Continue with the same pattern for Orders Routes...
 - **Endpoint:** `GET /api/v1/products/search?q={search_term}`
 
 ## Documentation
-[Postman Documentation](https://documenter.getpostman.com/view/27727111/2s9YsNdptR#37b5ec19-21ff-4d0e-a839-8da6d71ae078)
+[Postman Documentation](https://documenter.getpostman.com/view/27727111/2s9YsNdptR)
 
 - **Postman Documentation:** [Postman Documentation](https://documenter.getpostman.com/view/27727111/2s9YsNdptR#37b5ec19-21ff-4d0e-a839-8da6d71ae078)
 
